@@ -1,4 +1,4 @@
-<b># bacteria-generator</b>
+<b># Bacteria Generator</b>
 
 This Project is focus on View-Design only for Education perposes not a real application, 
 but it could be used for that was well with some code modifications. Software can generate Bacteries
